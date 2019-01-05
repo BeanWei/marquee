@@ -10,6 +10,12 @@ and specifying custom durations and curves for accelerating and decelerating.
 - [GitHub Repository](https://github.com/marcelgarus/marquee)
 - [API reference](https://pub.dartlang.org/documentation/marquee/)
 
+# About this fork
+this is a fork from [marcelgarus/marquee](https://github.com/marcelgarus/marquee)
+I use the project [bytedance/RealRichText](https://github.com/bytedance/RealRichText) to add the RichText to the marquee.
+
+So I just do the integration works, any issues need the two projects update, anyway, I will try my best to do it.
+
 ## Usage
 
 This is a minimalistic example:
